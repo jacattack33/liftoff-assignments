@@ -10,7 +10,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 
-Our project will be an app that allows users to search for supernatural hotspots. They will be able to save their favorites and rate sites that they have already visited.
+Our project will be an app that allows users to search for supernatural hotspots. User can view places on a map and read reviews. They will be able to save their favorites and rate sites that they have already visited.
 
 ### Features
 
